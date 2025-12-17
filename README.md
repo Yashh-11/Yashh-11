@@ -43,10 +43,12 @@ HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Or
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=radical&no-frame=true&margin-w=15&margin-h=15"
-  />
+  <img src="https://img.shields.io/github/stars/Yashh-11?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/followers/Yashh-11?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/m/Yashh-11?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/Yashh-11?style=flat-square" />
 </p>
+
 
 
 ---
