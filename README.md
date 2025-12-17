@@ -43,11 +43,12 @@ HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Or
 ## 🏆 GitHub Achievements
 
 <p align="center">
- <img 
-  src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=radical&no-frame=true&margin-w=15&margin-h=15" 
-/>
-
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=onedark&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies for Yash Chandrani"
+  />
 </p>
+>
 
 ---
 
