@@ -43,10 +43,10 @@ HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Or
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img 
-    src="[https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=darkhub&no-frame=true&row=1&column=6](https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png)" 
-    alt="GitHub Trophies" 
-  />
+ <img 
+  src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=radical&no-frame=true&margin-w=15&margin-h=15" 
+/>
+
 </p>
 
 ---
