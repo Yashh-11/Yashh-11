@@ -1,134 +1,92 @@
 <!-- ========================= -->
-<!--  GitHub Profile README   -->
-<!--  Author: Yash Chandrani  -->
-<!--  Username: Yashh-11      -->
-<!--  Theme: Neon Violet      -->
+<!-- GitHub Profile README    -->
+<!-- Name: Yash Chandrani     -->
+<!-- Username: Yashh-11       -->
 <!-- ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Yash%20Chandrani&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62" width="100%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yash%20Chandrani&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&center=true&multiline=true&width=900&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+PHP;HTML+CSS+Bootstrap+Media+Query;C+%7C+C%2B%2B+%7C+Oracle+Database" />
-
----
-
-## 📊 Beast Mode Stats Dashboard
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Yashh-11&label=Profile%20Views&color=8A2BE2&style=flat-square"/><br/>
-🚀 Live Counter
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/github/followers/Yashh-11?style=flat-square&color=FF1493&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Yashh-11?style=flat-square&color=FF69B4&label=Stars"/><br/>
-📈 Growth Metrics
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-YES-00FF7F?style=flat-square"/><br/>
-💼 Professional Status
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashh-11&theme=dark&hide_border=true"/><br/>
-🔥 Contribution Streak
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+PHP;HTML+CSS+Bootstrap+Media+Query;C+%7C+C%2B%2B+%7C+Oracle" />
 
 ---
 
-## ⚡ GitHub Performance Dashboard
+## 📊 GitHub Performance Dashboard
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashh-11&theme=github_dark" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashh-11&theme=github-dark&hide_border=true" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashh-11&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashh-11&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashh-11&theme=github_dark" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+
+---
+
+## 🧠 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashh-11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" />
 
 ---
 
 ## 🛠️ Technology Arsenal
 
-<table>
-<tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="70"/><br/>JavaScript</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="70"/><br/>React</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/html-icon.svg" width="70"/><br/>HTML</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/css-icon.svg" width="70"/><br/>CSS</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/php-icon.svg" width="70"/><br/>PHP</td>
-</tr>
-<tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70"/><br/>C++</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/c-icon.svg" width="70"/><br/>C</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70"/><br/>Oracle</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="70"/><br/>GitHub</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="70"/><br/>Bootstrap</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,c,cpp,mysql,github" />
+</p>
+
+<p align="center">
+HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Oracle • GitHub
+</p>
 
 ---
 
-## 📈 Advanced GitHub Analytics
+## 🏆 GitHub Achievements
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=react&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashh-11&theme=react&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=react&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=darkhub&no-frame=true&margin-w=15" width="100%" />
 
 ---
 
-## 🏆 GitHub Achievement Showcase
+## 🐍 Contribution Snake
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=radical&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
----
-
-## 🐍 Contribution Graph — Sissa Edition
-
-<img src="https://raw.githubusercontent.com/Yashh-11/Yashh-11/output/github-contribution-grid-snake.svg" width="100%"/>
+> ⚠️ Snake shows generic animation (always works).  
+> If you want **personal snake**, I’ll give workflow next.
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let’s Connect
 
-<a href="https://github.com/Yashh-11">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Yashh-11">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 💬 Daily Dev Quote
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&font=Fira%20Code"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
 
 ## 🌟 Personal Philosophy
 
-> **“Ship fast, learn more — push code, then soar.”**
+> **“Ship fast, learn more — push code, then improve.”**
 
-🚀 Innovation happens at the intersection of curiosity and code  
-🔥 Build it, break it, make it better  
-⚡ Learn in public, succeed everywhere  
+- 🚀 Innovation through practice  
+- 🔥 Build → Break → Fix → Repeat  
+- ⚡ Learn in public, grow faster  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" />
 
-**MADE WITH ❤️ BY YASH CHANDRANI | STATUS: BEAST MODE ON**
+**MADE WITH ❤️ BY YASH CHANDRANI**  
+**STATUS: BEAST MODE ON 🔥**
 
 </div>
