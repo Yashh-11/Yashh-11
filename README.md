@@ -44,7 +44,7 @@ HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Or
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=darkhub&no-frame=true&row=1&column=6" 
+    src="[https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=darkhub&no-frame=true&row=1&column=6](https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png)" 
     alt="GitHub Trophies" 
   />
 </p>
