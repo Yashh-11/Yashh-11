@@ -1,83 +1,61 @@
-<!-- ========================= -->
-<!-- GitHub Profile README    -->
-<!-- Name: Yash Chandrani     -->
-<!-- Username: Yashh-11       -->
-<!-- ========================= -->
-
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yash%20Chandrani&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55" width="100%" />
+# 👋 Hi, I'm **Yash Chandrani**
+### 🚀 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+PHP;HTML+CSS+Bootstrap+Media+Query;C+%7C+C%2B%2B+%7C+Oracle" />
-
----
-
-## 📊 GitHub Performance Dashboard
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashh-11&theme=github-dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yashh-11&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 Contribution Activity
+## 🧑‍💻 About Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashh-11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" />
+- 💻 Full Stack Developer  
+- 🌐 Frontend & Backend enthusiast  
+- ⚙️ Clean code, responsive UI, real-world logic  
+- 📚 Constant learner & builder  
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack (100% Safe Icons)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,c,cpp,mysql,github" />
 </p>
 
-<p align="center">
-HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Oracle • GitHub
-</p>
-
----
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Yashh-11?style=for-the-badge&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/followers/Yashh-11?style=for-the-badge&logo=github&label=Followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Yashh-11?style=for-the-badge&label=Commits%20This%20Year" />
-  <img src="https://img.shields.io/github/repos/Yashh-11?style=for-the-badge&label=Public%20Repos" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Status-Beast%20Mode%20ON-8A2BE2?style=for-the-badge" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Yashh-11?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/followers/Yashh-11?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/commit-activity/m/Yashh-11?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/Yashh-11?style=flat-square" />
-</p>
-
-
+**HTML · CSS · JavaScript · React · PHP · Bootstrap · C · C++ · Oracle · GitHub**
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats (Always Works)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashh-11&theme=dark&hide_border=true" />
+</p>
 
-> ⚠️ Snake shows generic animation (always works).  
-> If you want **personal snake**, I’ll give workflow next.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🏆 GitHub Achievements (SAFE BADGES)
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Yashh-11?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Yashh-11?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/Yashh-11?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/Yashh-11?style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Yashh-11">
@@ -90,25 +68,12 @@ HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Or
 
 ---
 
-## 💬 Daily Dev Quote
+## 💬 Developer Philosophy
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
----
-
-## 🌟 Personal Philosophy
-
-> **“Ship fast, learn more — push code, then improve.”**
-
-- 🚀 Innovation through practice  
-- 🔥 Build → Break → Fix → Repeat  
-- ⚡ Learn in public, grow faster  
+> **“Ship fast. Learn faster. Improve forever.”**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" />
-
-**MADE WITH ❤️ BY YASH CHANDRANI**  
-**STATUS: BEAST MODE ON 🔥**
+⭐ If you like my work, consider giving a star!
 
 </div>
