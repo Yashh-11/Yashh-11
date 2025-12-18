@@ -16,7 +16,6 @@
 ## 📊 GitHub Performance Dashboard
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashh-11&theme=github-dark&hide_border=true" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 
