@@ -39,22 +39,12 @@ HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Or
 </p>
 
 ---
+
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Yashh-11?style=for-the-badge&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/followers/Yashh-11?style=for-the-badge&logo=github&label=Followers" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashh-11&theme=darkhub&no-frame=true&margin-w=15" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Yashh-11?style=for-the-badge&label=Commits%20This%20Year" />
-  <img src="https://img.shields.io/github/repos/Yashh-11?style=for-the-badge&label=Public%20Repos" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Status-Beast%20Mode%20ON-8A2BE2?style=for-the-badge" />
-</p>
-
+---
 
 ## 🐍 Contribution Snake
 
