@@ -116,7 +116,7 @@
 <br><br>
 
 <a href="https://github.com/Yashh-11">
-  <img src="https://img.shields.io/badge/GitHub-Yashh-11-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/GitHub-Yash11-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
 </a>
 
 <a href="#">
