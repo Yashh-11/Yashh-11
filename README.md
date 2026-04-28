@@ -104,19 +104,19 @@
 <br>
 
 <a href="tel:7016741214">
-  <img src="https://img.shields.io/badge/Call-7600414329-39FF14?style=for-the-badge&logo=phone&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Call-7016741214-39FF14?style=for-the-badge&logo=phone&logoColor=black"/>
 </a>
 
 <br><br>
 
 <a href="mailto:chandraniyash11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gadigesagar02%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-chandraniyash11%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/Yashh-11">
-  <img src="https://img.shields.io/badge/GitHub-sagargadige-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/GitHub-Yashh-11-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
 </a>
 
 <a href="#">
