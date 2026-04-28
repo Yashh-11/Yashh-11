@@ -1,101 +1,162 @@
-<!-- ========================= -->
-<!-- GitHub Profile README    -->
-<!-- Name: Yash Chandrani     -->
-<!-- Username: Yashh-11       -->
-<!-- ========================= -->
+<!-- ================== CYBERPUNK HEADER ================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:000000,100:39FF14&height=230&section=header&text=YASH%20CHANDRANI&fontSize=45&fontColor=00F7FF&animation=twinkling" />
+</div>
+
+<!-- ================== TYPING ANIMATION ================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=39FF14&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer;⚡+MERN+Stack+Developer;🤖+AI+Inspired+Developer;🌌+Cyberpunk+Code+Architect" />
+</div>
+
+<!-- ================== CODING GIF ================== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="240"/>
+</div>
+
+---
+
+# 👨‍💻 ABOUT ME
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Name-YASH%20CHANDRANI-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer%20(MERN)-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Education-BSCIT%20PURSUINGe-FF00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Navsari%2C%20Gujarat-FFA500?style=for-the-badge"/>
+</div>
+
+<br>
+
+<div align="center">
+  ✨ Passion: Building modern web apps with great UI/UX
+</div>
+
+---
+
+## 🧬 PROFILE SUMMARY
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="200"/>
+</div>
+
+<br>
+
+<div align="center">
+  💡 Enthusiastic BSCIT Student with strong knowledge of <b>HTML, CSS, Bootstrap, JavaScript, React, and Next.js</b>, skilled in <b>C & C++</b> with a solid foundation in computer science, and passionate about contributing to <b>innovative projects</b> while continuously enhancing technical skills.
+</div>
+
+---
+
+## 🧠 TECH STACK
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,nodejs,mongodb,c,cpp,git,github,vscode&theme=dark" />
+</div>
+
+---
+
+## ⚙️ EXPERTISE
+
+### 🚀 Frontend
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript (ES6+)  
+
+### 💻 Programming
+- C  
+- C++  
+
+### ⚛️ Libraries & Frameworks
+- React.js  
+- Next.js (Basic)
+- Node.js
+- Express.js  
+
+### 🛠 Tools
+- Git  
+- GitHub  
+
+---
+
+## 🧰 SKILLS
+
+### 💡 Technical Skills
+- Web Development  
+- Frontend Design  
+- Responsive UI  
+
+### 🤝 Soft Skills
+- Project Management  
+- Teamwork  
+- Time Management  
+- Leadership  
+- Communication  
+- Critical Thinking  
+
+---
+
+## 📞 CONTACT
 
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yash%20Chandrani&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55" width="100%" />
+### 🚀 Let's Connect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+PHP;HTML+CSS+Bootstrap+Media+Query;C+%7C+C%2B%2B+%7C+Oracle" />
+<br>
 
----
+<a href="tel:7016741214">
+  <img src="https://img.shields.io/badge/Call-7600414329-39FF14?style=for-the-badge&logo=phone&logoColor=black"/>
+</a>
 
-## 📊 GitHub Performance Dashboard
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+<a href="mailto:chandraniyash11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gadigesagar02%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+<br><br>
 
----
+<a href="https://github.com/Yashh-11">
+  <img src="https://img.shields.io/badge/GitHub-sagargadige-111111?style=for-the-badge&logo=github&logoColor=39FF14"/>
+</a>
 
-## 🧠 Contribution Activity
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashh-11&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" />
+<br><br>
 
----
+📍 <b>Navsari, Gujarat, India</b>
 
-## 🛠️ Technology Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,c,cpp,mysql,github" />
-</p>
-
-<p align="center">
-HTML • CSS • JavaScript • React • PHP • Bootstrap • C • C++ • Oracle • GitHub
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Yashh-11?style=for-the-badge&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/followers/Yashh-11?style=for-the-badge&logo=github&label=Followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Yashh-11?style=for-the-badge&label=Commits%20This%20Year" />
-  <img src="https://img.shields.io/github/repos/Yashh-11?style=for-the-badge&label=Public%20Repos" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Status-Beast%20Mode%20ON-8A2BE2?style=for-the-badge" />
-</p>
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-
-> ⚠️ Snake shows generic animation (always works).  
-> If you want **personal snake**, I’ll give workflow next.
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤖 AI ASSISTANT
 
-<p align="center">
-  <a href="https://github.com/Yashh-11">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<div align="center">
+  <a href="mailto:chandraniyash11@gmail.com">
+    <img src="https://img.shields.io/badge/Ask%20AI%20Assistant-39FF14?style=for-the-badge&logo=openai&logoColor=black"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 💬 Daily Dev Quote
+## 📊 GITHUB STATS
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Yashh-11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌟 Personal Philosophy
+<img src="https://streak-stats.demolab.com?user=Yashh-11&theme=tokyonight&hide_border=true"/>
 
-> **“Ship fast, learn more — push code, then improve.”**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-11&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- 🚀 Innovation through practice  
-- 🔥 Build → Break → Fix → Repeat  
-- ⚡ Learn in public, grow faster  
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" />
+## 🐍 CONTRIBUTION SNAKE
 
-**MADE WITH ❤️ BY YASH CHANDRANI**  
-**STATUS: BEAST MODE ON 🔥**
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
