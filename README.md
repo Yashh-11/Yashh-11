@@ -1,11 +1,12 @@
 # Yashh-11
 
-> Learning velocity and project potential.
+> Recruiter-friendly proof and contact path.
 
 **Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **Yashh-11**. This README is tuned for **student** with a GitHub visual system.
+> Editing this section in the inspector.
+Hi, I'm **Yashh-11**. This README is tuned for **get hired** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Yashh-11&theme=github-dark&mode=light" />
@@ -45,11 +46,11 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Connect
-LinkedIn: https://www.linkedin.com/in/yash-chandrani1106/ · Email: chandraniyash11@gmail.com
+Email: chandraniyash11@gmail.com
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Yashh-11&theme=github-dark&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyash-chandrani1106%2F&email=chandraniyash11%40gmail.com&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=Yashh-11&theme=github-dark&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyash-chandrani1106%2F&email=chandraniyash11%40gmail.com" alt="Yashh-11 social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Yashh-11&theme=github-dark&email=chandraniyash11%40gmail.com&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Yashh-11&theme=github-dark&email=chandraniyash11%40gmail.com" alt="Yashh-11 social section" />
   </picture>
 </p>
 
