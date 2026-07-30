@@ -1,1 +1,1 @@
-[[![Yashh-11's GitSkins profile skin](https://www.gitskins.com/api/premium-card?username=Yashh-11&theme=winter&variant=persona&avatar=persona)](https://www.gitskins.com/showcase/Yashh-11?skin=frosted&avatar=gitskins)](https://www.gitskins.com/showcase/Yashh-11?skin=frosted&avatar=gitskins)
+[![Yashh-11's GitSkins profile skin](https://www.gitskins.com/api/premium-card?username=Yashh-11&theme=winter&variant=persona&avatar=persona)](https://www.gitskins.com/showcase/Yashh-11?skin=frosted&avatar=gitskins)](https://www.gitskins.com/showcase/Yashh-11?skin=frosted&avatar=gitskins)
